@@ -7,3 +7,6 @@ dashboard-main/node_modules
 
 # Environment files
 *.env
+*.env
+*.log
+
