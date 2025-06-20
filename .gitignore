@@ -1,0 +1,9 @@
+# Node modules
+Cyphers/node_modules
+dashboard-main/node_modules
+
+# Logs
+*.log
+
+# Environment files
+*.env
